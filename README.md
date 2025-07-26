@@ -3,11 +3,11 @@
 
 ## **Index**
 
-[1. Project Overview]
+[1. Project Overview](https://github.com/anmoljaincma/project_3_internship_unified_mentor/blob/main/README.md#1-project-overview)
 
-[2. Objective]
+[2. Objective](https://github.com/anmoljaincma/project_3_internship_unified_mentor?tab=readme-ov-file#2-objective)
 
-[3. Dataset Description]
+[3. Dataset Description](https://github.com/anmoljaincma/project_3_internship_unified_mentor?tab=readme-ov-file#3-dataset-description)
 
 **4. Project Workflow**
 
