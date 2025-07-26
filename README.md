@@ -3,43 +3,39 @@
 
 ## **Index**
 
-Project Overview
+[1. Project Overview]
 
-Objective
+[2. Objective]
 
-Dataset Description
+[3. Dataset Description]
 
-Columns & Data Types
+**4. Project Workflow**
 
-Data Source
+[Step 1: Define Objective & Load Dataset]
 
-Project Workflow
+[Step 2: Data Cleaning & Preprocessing]
 
-Step 1: Define Objective & Load Dataset
+[Step 3: Exploratory Data Analysis (EDA)]
 
-Step 2: Data Cleaning & Preprocessing
+[Step 4: Visualization & Insights]
 
-Step 3: Exploratory Data Analysis (EDA)
+[Step 5: Statistical & Correlation Analysis]
 
-Step 4: Visualization & Insights
+[Step 6: (Optional) Predictive Modeling]
 
-Step 5: Statistical & Correlation Analysis
+[Step 7: Key Findings & Conclusion]
 
-Step 6: (Optional) Predictive Modeling
+[5. Visualizations]
 
-Step 7: Key Findings & Conclusion
+[6. Key Insights]
 
-Visualizations
+[7. Tools & Libraries Used]
 
-Key Insights
+[8. How to Run the Project]
 
-Tools & Libraries Used
+[9. References]
 
-How to Run the Project
-
-References
-
-## **1.Project Overview**  
+## **1. Project Overview**  
 
 This project analyzes the **OCD Patient Dataset**, which contains detailed demographic and clinical information for **1,500 individuals diagnosed with Obsessive-Compulsive Disorder (OCD)**. The goal is to **explore, clean, and analyze** the dataset to uncover patterns in demographics, symptom severity, co-occurring conditions, and treatment approaches.
 
