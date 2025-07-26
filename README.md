@@ -13,7 +13,7 @@
 
 [Step 1: Importing Libraries & Load Dataset](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=29hH6zZW5B6u)
 
-[Step 2: Data Cleaning & Preprocessing]
+[Step 2: Initial Data Exploration]
 
 [Step 3: Exploratory Data Analysis (EDA)]
 
