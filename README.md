@@ -15,7 +15,7 @@
 
 [Step 2: Initial Data Exploration](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=4MDwjk19sOsE)
 
-[Step 3: Exploratory Data Analysis (EDA)]
+[Step 3: Descriptive Statistics]
 
 [Step 4: Visualization & Insights]
 
