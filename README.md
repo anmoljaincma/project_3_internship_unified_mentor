@@ -67,7 +67,7 @@ This analysis will help clinicians, researchers, and data enthusiasts better und
  ● **Education Level:** Level of education attained by the patient.  
  ● **OCD Diagnosis Date:** Date when OCD was diagnosed.  
  ● **Duration of Symptoms (months):** Duration for which the patient has been experiencing symptoms.  
- ● **Previous Diagnoses:** Any previous diagnoses before OCD.  
+ ● **Previous Diagnoses:** Any previous diagnoses before OCD.(MDD:- Major Depressive Disorder, PTSD:- Post-Traumatic Stress Disorder and GAD:- Generalized Anxiety Disorder) 
  ● **Family History of OCD:** Whether the patient has a family history of OCD.  
  ● **Obsession Type:** Type of obsessions experienced by the patient.  
  ● **Compulsion Type:** Type of compulsions experienced by the patient.  
