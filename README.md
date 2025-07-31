@@ -21,7 +21,7 @@
 
 [Step 5: Clinical Data Analysis](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=Ukc3qxcf6LGX)
 
-[Step 6: (Optional) Predictive Modeling]
+[Step 6: Correlation Analysis](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=RKLGcyp5modj)
 
 [Step 7: Key Findings & Conclusion]
 
