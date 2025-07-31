@@ -19,7 +19,7 @@
 
 [Step 4: Visualizing Demographic Data](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=pYmNi7-x1JVx)
 
-[Step 5: Statistical & Correlation Analysis](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=Ukc3qxcf6LGX)
+[Step 5: Clinical Data Analysis](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=Ukc3qxcf6LGX)
 
 [Step 6: (Optional) Predictive Modeling]
 
