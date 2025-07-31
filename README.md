@@ -17,9 +17,9 @@
 
 [Step 3: Descriptive Statistics](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=WL33wuQ9ttI8)
 
-[Step 4: Visualizing Demographic Data]
+[Step 4: Visualizing Demographic Data](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=yT3IzQcBK81a)
 
-[Step 5: Statistical & Correlation Analysis]
+[Step 5: Statistical & Correlation Analysis](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=Ukc3qxcf6LGX)
 
 [Step 6: (Optional) Predictive Modeling]
 
