@@ -23,7 +23,7 @@
 
 [Step 6: Correlation Analysis](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=DxNSwJP16N4c)
 
-[Step 7: Key Findings & Conclusion]
+[Step 7: Key Insights and Reporting]
 
 [5. Visualizations]
 
