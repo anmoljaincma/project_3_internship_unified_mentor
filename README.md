@@ -1,7 +1,7 @@
 # **Project Title:** 
 # **OCDPatient Dataset: Demographics & Clinical Data Analysis**
 
-## **Index**
+## **Index** ([Link to uploaded python file](Project_3_Unified_Mentor_Internship.ipynb))
 
 [1. Project Overview](https://github.com/anmoljaincma/project_3_internship_unified_mentor/blob/main/README.md#1-project-overview)
 
