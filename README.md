@@ -27,7 +27,7 @@
 
 [5. Conclusion & Recommendations](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=d3383f79)
 
-[6. Tools & Libraries Used](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=tZX7hHz7HUCj)
+[6. Tools & Libraries Used](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=42cd6805)
 
 ## **1. Project Overview**  
 
