@@ -11,19 +11,19 @@
 
 **4. Project Workflow**
 
-[Step 1: Importing Libraries & Load Dataset](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=29hH6zZW5B6u)
+- [Step 1: Importing Libraries & Load Dataset](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=29hH6zZW5B6u)
 
-[Step 2: Initial Data Exploration](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=4MDwjk19sOsE)
+- [Step 2: Initial Data Exploration](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=4MDwjk19sOsE)
 
-[Step 3: Descriptive Statistics](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=WL33wuQ9ttI8)
+- [Step 3: Descriptive Statistics](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=WL33wuQ9ttI8)
 
-[Step 4: Visualizing Demographic Data](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=pYmNi7-x1JVx)
+- [Step 4: Visualizing Demographic Data](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=pYmNi7-x1JVx)
 
-[Step 5: Clinical Data Analysis](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=Ukc3qxcf6LGX)
+- [Step 5: Clinical Data Analysis](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=Ukc3qxcf6LGX)
 
-[Step 6: Correlation Analysis](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=DxNSwJP16N4c)
+- [Step 6: Correlation Analysis](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=DxNSwJP16N4c)
 
-[Step 7: Key Insights and Reporting](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=08778a94)
+- [Step 7: Key Insights and Reporting](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=08778a94)
 
 [5. Conclusion & Recommendations](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=zkgriqXsFnjC)
 
