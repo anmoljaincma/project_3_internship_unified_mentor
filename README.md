@@ -25,6 +25,10 @@
 
 [Step 7: Key Insights and Reporting](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=08778a94)
 
+[5. Conclusion & Recommendations](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=zkgriqXsFnjC)
+
+[6. Tools & Libraries Used](https://colab.research.google.com/drive/1AlHlwZX7C79wcIb3I0W4EzQYE4wCptoE#scrollTo=tZX7hHz7HUCj)
+
 ## **1. Project Overview**  
 
 This project analyzes the **OCD Patient Dataset**, which contains detailed demographic and clinical information for **1,500 individuals diagnosed with Obsessive-Compulsive Disorder (OCD)**. The goal is to **explore, clean, and analyze** the dataset to uncover patterns in demographics, symptom severity, co-occurring conditions, and treatment approaches.
